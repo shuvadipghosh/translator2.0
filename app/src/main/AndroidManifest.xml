@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.assistance">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:name="com.chaquo.python.android.PyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/translator"
+        android:label="Translator 2.0"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Assistance">
+        <activity android:name=".dictionary"></activity>
+        <activity android:name=".antonym" />
+        <activity android:name=".summery" />
+        <activity android:name=".nointerner" />
+        <activity android:name=".forgetpassword" />
+        <activity android:name=".temperature" />
+        <activity android:name=".language_translate" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/button_edit" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".translator" />
+        <activity
+            android:name=".relogin"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".login"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

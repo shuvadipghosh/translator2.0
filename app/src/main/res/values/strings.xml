@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">assistance</string>
+    <string-array name="list">
+        <item>Afrikaans</item>
+        <item>Arabic</item>
+        <item>Azerbaijani</item>
+        <item>Bashkir</item>
+        <item>Belarusian</item>
+        <item>Bulgarian</item>
+        <item>Bengali</item>
+        <item>Catalan</item>
+        <item>Czech</item>
+        <item>Chuvash</item>
+        <item>Welsh</item>
+        <item>Danish</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Spanish</item>
+        <item>Estonian</item>
+        <item>Basque</item>
+        <item>Persian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Irish</item>
+        <item>Gujarati</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Croatian</item>
+        <item>Haitian</item>
+        <item>Hungarian</item>
+        <item>Armenian</item>
+        <item>Icelandic</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Georgian</item>
+        <item>Traditional Chinese</item>
+        <item>Kazakh</item>
+        <item>Central Khmer</item>
+        <item>Vietnamese</item>
+        <item>Simplified Chinese</item>
+        <item>Urdu</item>
+        <item>Ukrainian</item>
+        <item>Turkish</item>
+        <item>Tagalog</item>
+        <item>Thai</item>
+        <item>Telugu</item>
+        <item>Tamil</item>
+        <item>Swedish</item>
+        <item>Serbian</item>
+        <item>Albanian</item>
+        <item>Somali</item>
+        <item>Slovenian</item>
+        <item>Slovakian</item>
+        <item>Sinhala</item>
+        <item>Russian</item>
+        <item>Romanian</item>
+        <item>Portuguese</item>
+        <item>Pushto</item>
+        <item>Polish</item>
+        <item>Punjabi (Shahmukhi script, Pakistan)</item>
+        <item>Punjabi</item>
+        <item>Norwegian Nynorsk</item>
+        <item>Dutch</item>
+        <item>Nepali</item>
+        <item>Norwegian Bokmal</item>
+        <item>Burmese</item>
+        <item>Maltese</item>
+        <item>Malay</item>
+        <item>Marathi</item>
+        <item>Mongolian</item>
+        <item>Malayalam</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Lao</item>
+        <item>Kirghiz</item>
+        <item>Kurdish</item>
+        <item>Korean</item>
+
+    </string-array>
+</resources>
