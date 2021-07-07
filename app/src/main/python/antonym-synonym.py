@@ -27,6 +27,7 @@ def an_sy(n,types):
             if c!=1:
                 syno= syno+" , "+s
             else:
+                s=s.replace('_',' ')
                 syno=syno+""+s
 
         if types=='Synonyms':
